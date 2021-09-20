@@ -3,7 +3,6 @@ using GalaSoft.MvvmLight.Command;
 using GalaSoft.MvvmLight.Messaging;
 using System.Windows.Input;
 using System.Collections.ObjectModel;    
-using WpfApplication1.Model;
 using System.Windows;
 using System;
 
